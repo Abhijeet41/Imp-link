@@ -39,8 +39,12 @@ https://github.com/VinayakBagaria/Indian-States-and-Cities-Android
 ------------------------------------------------------------------------------------------------------------------
 
 
+searchable spinner with multiple selection 
+
+https://github.com/pratikbutani/MultiSelectSpinner
 
 
+-------------------------------------------------------------------------------------------------------------------
 
 
 
