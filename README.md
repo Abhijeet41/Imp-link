@@ -31,6 +31,14 @@ https://tutorialwing.com/android-eventbus-library-example/
 -----------------------------------------------------------------------------------------------------------------
 
 
+autocomplete text
+
+https://github.com/VinayakBagaria/Indian-States-and-Cities-Android
+
+
+------------------------------------------------------------------------------------------------------------------
+
+
 
 
 
