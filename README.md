@@ -56,6 +56,7 @@ https://www.simplifiedcoding.net/android-room-database-example/
 
 
 Nested recycler view
+
 https://www.youtube.com/watch?v=1jcIBLxPV88
 
 
