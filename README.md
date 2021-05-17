@@ -62,4 +62,14 @@ https://www.youtube.com/watch?v=1jcIBLxPV88
 
 -------------------------------------------------------------------------------------------------------------------
 
+Saripaar libarry (validate password username email etc)
+
+https://tutorialwing.com/android-form-validation-using-saripaar-library-tutorial/
+
+
+
+-------------------------------------------------------------------------------------------------------------------
+
+
+
 
